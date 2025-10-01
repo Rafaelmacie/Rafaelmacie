@@ -4,6 +4,24 @@
 
 ---
 
+## 📈 Estatísticas do Github
+
+<div align="center">
+  <a href="https://github.com/Rafaelmacie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rony2201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony2201&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+---
+
+## 🗂️ Projetos em Destaque
+
+- ♿ [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing para mapeamento de locais com acessibilidade, ajudando a promover a inclusão.
+- 🏫 [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Aplicação para automatizar e gerenciar o processo de solicitação de reposição de aulas no IFCE.
+
+---
+
 ## 🚀 Tecnologias & Ferramentas
 
 <div>
@@ -22,24 +40,6 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https.img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
----
-
-## 🗂️ Projetos em Destaque
-
-- ♿ [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing para mapeamento de locais com acessibilidade, ajudando a promover a inclusão.
-- 🏫 [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Aplicação para automatizar e gerenciar o processo de solicitação de reposição de aulas no IFCE.
-
----
-
-## 📈 Estatísticas do Github
-
-<div align="center">
-  <a href="https://github.com/Rafaelmacie">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rony2201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony2201&layout=compact&langs_count=7&theme=dark"/>
-  </a>
 </div>
 
 ---

@@ -1,9 +1,6 @@
 # Olá! 👋 Eu sou o Rafael Maciel
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Profile views](https://komarev.com/ghpvc/?username=Rafaelmacie&color=blueviolet&style=flat-square)
-
-👨‍💻 **Desenvolvedor Full Stack** 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 💡 Apaixonado por criar soluções que resolvem problemas reais e facilitam a vida das pessoas.
+👨‍💻 **Desenvolvedor Full Stack** 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -39,8 +36,10 @@
 ## 📈 Estatísticas do Github
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelmacie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmacie&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Rafaelmacie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rony2201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony2201&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ---

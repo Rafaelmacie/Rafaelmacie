@@ -44,7 +44,7 @@
 
 ---
 
-## 🌎 Conecte-se Comigo
+## 🌎 Contatos
 
 <div>
   <a href="https://www.linkedin.com/in/rafaelmacieln/" target="_blank">

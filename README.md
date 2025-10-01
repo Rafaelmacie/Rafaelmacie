@@ -17,8 +17,8 @@
 
 ## 🗂️ Projetos em Destaque
 
-- ♿ [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing para mapeamento de locais com acessibilidade, ajudando a promover a inclusão.
-- 🏫 [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Aplicação para automatizar e gerenciar o processo de solicitação de reposição de aulas no IFCE.
+- [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing para mapeamento de locais com acessibilidade, ajudando a promover a inclusão.
+- [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Projeto criado para automatizar e gerenciar o processo de solicitação de reposição de aulas no IFCE.
 
 ---
 
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https.img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 ---

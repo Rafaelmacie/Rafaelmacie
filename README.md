@@ -1,8 +1,8 @@
 # Olá! 👋 Eu sou o Rafael Maciel
 
-👨‍💻 **Desenvolvedor Full Stack & Analista de Sistemas** | 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (IFCE)**
+👨‍💻 **Desenvolvedor Full Stack & Analista de Sistemas**
 
-Sou apaixonado por construir soluções de ponta a ponta, com foco em arquitetura de software (Clean Architecture, DDD), qualidade de código e automação. Tenho experiência prática no desenvolvimento de sistemas em produção, desde a modelagem de banco de dados e criação de APIs escaláveis com mensageria, até o deploy em ambientes conteinerizados e integração com Inteligência Artificial.
+Construo soluções de ponta a ponta, com foco em arquitetura de software (Clean Architecture, DDD), qualidade de código e automação. Tenho experiência prática no desenvolvimento de sistemas em produção, desde a modelagem de banco de dados e criação de APIs escaláveis com load balance e observabilidade, até o deploy em ambientes conteinerizados e integração com Inteligência Artificial.
 
 ---
 
@@ -19,10 +19,10 @@ Sou apaixonado por construir soluções de ponta a ponta, com foco em arquitetur
 
 ## 🗂️ Projetos em Destaque
 
-- [**A.T.E.N.A.**](https://github.com/Rafaelmacie) — Plataforma full-stack para gestão de cooperativas de agricultura familiar, atualmente em produção. Arquitetura robusta com telemetria (Sentry), análise estática (SonarQube) e filas de mensagens. *(TypeScript, Express, React, PostgreSQL, RabbitMQ, Docker)*.
-- [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing multiplataforma (Web e Mobile) para mapeamento de locais com acessibilidade, ajudando a promover a inclusão. *(React, React Native, Node.js, Prisma)*.
-- [**Carlinhos (Assistente de IA)**](https://github.com/Rafaelmacie) — Assistente virtual agrícola utilizando visão computacional e NLP para análises agronômicas e avaliação de imagens foliares. *(Python, Streamlit, LangChain, YOLO, Gemini API)*.
-- [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Projeto criado para automatizar e gerenciar processos e solicitações acadêmicas. *(Node.js, SQL, Docker)*.
+- [**Sistema A.T.E.N.A.**] (Repositório Privado) — Sistema de Apoio Técnico e Estratégico para Negócios Agropecuários. É uma plataforma full-stack para gestão de cooperativas de agricultura familiar. Arquitetura robusta com telemetria (Sentry) e análise estática (SonarQube). *(TypeScript, Express, React, PostgreSQL, Viteste, Docker)*.
+- [**Sistema Qualiseed**] (Repositório Privado) - Sistema de análise de sementes que as classifica entre normais, anormais ou não germináveis. Modelo treinado para ser especialista e arquitetura construída de forma modular. (Docker, Typescript, Python, Pytest, FastAPI, YOLO)
+- [**AcessoLivre**](https://github.com/Rafaelmacie/Acesso-Livre) — Sistema crowdsourcing multiplataforma (Web - https://github.com/Rafaelmacie/Acesso-Livre e Mobile - https://github.com/Erlanoep13/AcessoLivre-Mobile) para mapeamento de locais com acessibilidade, ajudando a promover a inclusão. *(HTML, CSS, Tailwind, Javascript, Node.js, React Native e Firebase)*.
+- [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Rafaelmacie/Sistema-de-reposicao-de-aulas) — Projeto criado para automatizar e gerenciar processos e solicitações acadêmicas. *(React, Node.js, Express, Docker)*.
 
 ---
 
@@ -60,7 +60,6 @@ Sou apaixonado por construir soluções de ponta a ponta, com foco em arquitetur
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 </div>
 
